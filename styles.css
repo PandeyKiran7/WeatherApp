@@ -50,7 +50,7 @@ body {
   border-radius: 5px;
 }
 
-.serchBtn {
+.searchBtn {
   width: 100px;
   height: 30px;
   border-radius: 12px;
@@ -59,7 +59,7 @@ body {
   /* margin-bottom: 5px; */
 }
 
-.serchBtn:hover {
+.searchBtn:hover {
   background-color: grey;
   color: #fafdf4;
 }

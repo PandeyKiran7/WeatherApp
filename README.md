@@ -48,4 +48,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Acknowledgments
 Special thanks to OpenWeatherMap for providing the weather data.
-Thanks to the 
+Than you!
+

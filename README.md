@@ -17,7 +17,7 @@ To get started, clone this repository to your local machine using:
 
 bash
 Copy code
-git clone https://github.com/yourusername/WeatherApp.git
+git clone https://github.com/PandeyKiran7/WeatherApp.git
 Open the Project
 Navigate to the project folder and open the index.html file in your preferred web browser to view the app.
 
